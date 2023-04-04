@@ -1,1 +1,1 @@
-# brain-attention-exp
+# EEG analysis from student attentiveness experiment
